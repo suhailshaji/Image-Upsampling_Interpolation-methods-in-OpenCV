@@ -2,6 +2,7 @@
 
 METHODS
 <h4>
+    
     1.INTER_AREA
 
     2.INTER_NEAREST
